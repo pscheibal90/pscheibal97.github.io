@@ -1,0 +1,267 @@
+nav{
+  margin: .5em;
+  padding: .5em;
+}
+
+
+.jumbotron{
+  color: rgb(206, 166, 67);
+  background-image: url(images/logo-transparent-png.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:contain;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.jumbotron-cover{
+  color: goldenrod;
+  background-image: url(images/jumbotron\ colors.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.jumbotron-form{
+  color: rgb(221, 180, 75);
+  background-image: url(images/logojumboform.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  min-height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+  padding: 50px;
+}
+
+.residential-jumbotron{
+  color: rgb(221, 180, 75);
+  background-image: url(MidtermImages/Modern\ Living\ Room\ with\ Foundation\ 5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.commercial-jumbotron{
+    color: rgb(221, 180, 75);
+    background-image: url(images/commercial.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+
+.product-jumbotron{
+  color: rgb(221, 180, 75);
+  background-image: url(MidtermImages/NEOGA_03B_BEDROOM_ANGLED_HALF.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.gallery-jumbotron{
+  color: rgb(221, 180, 75);
+  background-image: url(images/roller\ shades.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+
+.residential-jumbotron-text{
+  margin-bottom: 350px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.commercial-jumbotron-text{
+  margin-bottom: 350px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.product-jumbotron-text{
+  margin-bottom: 350px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.jumbotron-form-title{
+  margin-right: 0px;
+}
+
+form{
+  margin-left: 350px;
+}
+
+.form-label{
+  font-size: 25px;
+}
+
+.comment-box{
+  height: 150px;
+  width: 650px;
+}
+
+.submit-form{
+  width: 150px;
+}
+
+.nav-link{
+  font-size: 20px;
+}
+
+.nav-link:hover{
+  color: goldenrod;
+}
+
+body{
+  font-family: 'Brygada 1918', serif;
+  background-color: rgb(221, 180, 75);
+}
+
+h2{
+  text-shadow: 1px 1px 1px black;
+  color: rgb(221, 180, 75);
+}
+
+.jumbotron-text-bottom{
+  margin-top: 400px;
+  align-items: center;
+}
+
+.jumbotron-button{
+  color: rgb(221, 180, 75);
+}
+
+
+.carousel-text{
+  margin-bottom: 350px;
+  color: rgb(221, 180, 75);
+  text-shadow: 2px 2px 2px black;
+}
+
+.carousel-text-2{
+    margin-bottom: 350px;
+    color: rgb(221, 180, 75);
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-text-3{
+  margin-bottom: 350px;
+  color: rgb(221, 180, 75);
+  text-shadow: 2px 2px 2px black;
+}
+
+.carousel-text-bottom{
+  
+  font-size: 30px;
+  text-shadow: 2px 2px 2px black;
+}
+
+
+.card{
+  background-color: rgb(221, 180, 75);
+}
+
+
+footer{
+  background-color: #33383c;
+  padding:70px 0px;
+}	       
+
+footer ul li{
+ padding:5px 0px;
+}
+
+.address span , .contact span , .social span{
+color: #FFF; 
+font-weight: 800; 
+padding-bottom: 10px; 
+margin-bottom: 20px;
+display: block;
+text-transform: uppercase;
+font-size: 20px;
+letter-spacing: 3px;
+}
+
+.address li p , .contact li a , .social li a{
+ color:#FFF;
+ letter-spacing: 2px;
+ text-decoration:none;
+}
+
+.social li{
+ float:left;
+}
+
+.address , .contact , .social {
+ list-style: none;
+}
+
+.fb-icon{
+  height: 64px !important;
+  width: 64px !important;
+}
+
+.res-card{
+  height: 850px;
+}
+
+.accordion{
+  width: 400px;
+}
+
+.accordion-button{
+  background-color: rgb(221, 180, 75);
+}
+
+
+.commercial-text{
+  font-size: 20px;
+}
+
+.product-text{
+  font-size: 20px;
+}
+
+.product-card{
+  width: 450px;
+}
+
+.card-text{
+  font-size: 20px;
+}
